@@ -1,7 +1,4 @@
-/*
- * Adyen 4.5.0 encryption by github.com/levi-nz
- *
- * This code is a rough implementation and can be improved in some places.
+/* This code is a rough implementation and can be improved in some places.
  * Read comments throughout the code for more information.
  */
 
